@@ -6,6 +6,7 @@ import Post from "./Posts";
 const App = () => (
   <>
     <div>
+      <p>brought to you by https://www.valentinog.com/blog/redux/</p>
       <h2>Articles</h2>
       <List />
     </div>
